@@ -4,6 +4,7 @@
 <img width="947" height="498" alt="image" src="https://github.com/user-attachments/assets/7f59704b-e4c7-4f20-bd14-4418939881b4" />
 <img width="941" height="472" alt="image" src="https://github.com/user-attachments/assets/454720bd-e25d-4355-898e-2d2382bf000b" />
 
+
 This Power BI project provides a comprehensive view of garment manufacturing performance, focusing on production efficiency, module utilization and style-wise output tracking. The dashboard integrates multiple data sources to visualize real-time production metrics, enabling better planning and operational decisions.
 
 * Key Features:
